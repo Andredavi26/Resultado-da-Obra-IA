@@ -1,1 +1,2 @@
-# Resultado-da-Obra-IA
+pip install -r requirements.txt
+streamlit run app.py
